@@ -44,10 +44,11 @@
   }
 }
 ```
+* step 5: In the root of the project create readme.md file.
+  
+* step 6: Running JSDoc: `npm run jsdoc`
 
-* step 5: Running JSDoc: `npm run jsdoc`
-
-* step 6: a jsdoc folder will be create from where you can find index.html and open it to any browser to navigate the generated documentation
+* step 7: a jsdoc folder will be create from where you can find index.html and open it to any browser to navigate the generated documentation
 
 ## jsdoc tutorial
 
